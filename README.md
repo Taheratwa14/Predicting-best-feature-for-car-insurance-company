@@ -1,2 +1,3 @@
-# practice_repo
-Welcome to my first repo in github  , this repo for projects I am working on 
+Machine learning is very popular in the insurance market, which has long been renowned for being data-driven.
+
+Working on behalf of On the Road car insurance, you'll investigate their customer data to identify the feature that produces the most accurate logistic regression model for them to predict whether a claim will be made against a policy!
